@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bishir Tijjani
+# Hi there! 👋 I'm Bishir T M
 
 Welcome to my GitHub profile! I'm a passionate web developer based in Katsina, Nigeria. Feel free to explore my projects and don't hesitate to reach out for collaboration or just to say hello!
 
